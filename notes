@@ -1,0 +1,6 @@
+git remote add host-wa-labs-videos git@github.com:gcanales75/host-wa-labs-videos.git
+git branch -M main
+
+git add .
+git commit -m "first commit"
+git push -u host-wa-labs-videos main
