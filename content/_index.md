@@ -4,7 +4,7 @@ chapter = true
 weight = 1 
 +++
 
-**LAB #1**
+**Laboratorio #1**
 
 1. Crear una cuenta nueva en <a href="https://aws.qwiklabs.com/" target="_blank">https://aws.qwiklabs.com/</a>.
 
