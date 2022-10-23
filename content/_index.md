@@ -1,8 +1,10 @@
 +++ 
-title = "Well Architected Labs" 
+title = "Rocket Journey: Solutions Architect – Associate" 
 chapter = true 
 weight = 1 
 +++
+
+## AWS Partner: AWS Well-Architected Best Practices (Technical) - Labs
 
 **Laboratorio #1**
 
