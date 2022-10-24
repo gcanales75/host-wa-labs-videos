@@ -43,3 +43,5 @@ weight = 1
 1. Tarea 5: Instala el agente de Amazon CloudWatch con SSM
 
 	{{< video src="/img/8-WA-Lab1-Task5.mp4" type="video/mp4" preload="auto" >}}
+
+
