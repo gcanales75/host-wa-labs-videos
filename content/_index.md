@@ -20,7 +20,7 @@ weight = 1
 
 1. Cambiar idioma de la consola de AWS
 
-	Nota: Aunque recomendamos utilizar la consola en inglés, tienes la opción de cambiar el idioma a Español.
+	Nota: Recomendamos utilizar la consola en inglés.
 
 	{{< video src="/img/3-change-lang.mp4" type="video/mp4" preload="auto" >}}
 
