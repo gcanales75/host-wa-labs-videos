@@ -35,3 +35,11 @@ weight = 1
 1. Tarea 3: Crear un grupo de recursos
 
 	{{< video src="/img/6-WA-Lab1-Task3.mp4" type="video/mp4" preload="auto" >}}
+
+1. Tarea 4: Habilitar Systems Manager para las instancias EC2
+
+	{{< video src="/img/7-WA-Lab1-Task4.mp4" type="video/mp4" preload="auto" >}}
+
+1. Tarea 5: Instala el agente de Amazon CloudWatch con SSM
+
+	{{< video src="/img/8-WA-Lab1-Task5.mp4" type="video/mp4" preload="auto" >}}
