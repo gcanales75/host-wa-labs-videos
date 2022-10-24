@@ -27,3 +27,11 @@ weight = 1
 1. Tarea 1: Verificar la arquitectura existente.
 
 	{{< video src="/img/4-WA-Lab1-Task1.mp4" type="video/mp4" preload="auto" >}}
+
+1. Tarea 2: Etiquetar las instancias EC2
+
+	{{< video src="/img/5-WA-Lab1-Task2.mp4" type="video/mp4" preload="auto" >}}
+
+1. Tarea 3: Crear un grupo de recursos
+
+	{{< video src="/img/6-WA-Lab1-Task3.mp4" type="video/mp4" preload="auto" >}}
