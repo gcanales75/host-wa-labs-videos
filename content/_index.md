@@ -43,22 +43,22 @@ weight = 1
 
 1. **Tarea 4: Habilitar Systems Manager para las instancias EC2**
 
-	{{< video src="/img/ver2_7_BuilderLabsWAFR-Task4.mp4" type="video/mp4" preload="auto" >}}
+	{{< video src="/img/6-Task4.mp4" type="video/mp4" preload="auto" >}}
 
 	<br></br>
 
 1. **Tarea 5: Instala el agente de Amazon CloudWatch con SSM**
 
-	{{< video src="/img/ver2_8_BuilderLabsWAFR-Task5.mp4" type="video/mp4" preload="auto" >}}
+	{{< video src="/img/7-Task5.mp4" type="video/mp4" preload="auto" >}}
 
 	<br></br>
 
 1. **Tarea 6: Iniciar el agente de Amazon CloudWatch**
 
-	{{< video src="/img/ver2_9_BuilderLabsWAFR-Task6.mp4" type="video/mp4" preload="auto" >}}
+	{{< video src="/img/8-Task6.mp4" type="video/mp4" preload="auto" >}}
 
 	<br></br>
 
 1. **Tarea 7: Validar las métricas personalizadas y los grupos de registros**
 
-	{{< video src="/img/ver2_10_BuilderLabsWAFR-Task7.mp4" type="video/mp4" preload="auto" >}}
+	{{< video src="/img/9-Task7.mp4" type="video/mp4" preload="auto" >}}
