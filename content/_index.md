@@ -1,5 +1,5 @@
 +++ 
-title = "Rocket Journey: Solutions Architect – Associate" 
+title = "Rocket Journey" 
 chapter = true 
 weight = 1 
 +++
