@@ -1,5 +1,5 @@
 +++ 
-title = "Rocket Journey" 
+title = "AWS Partner Certification Rediness - Solutions Architected Associate" 
 chapter = true 
 weight = 1 
 +++

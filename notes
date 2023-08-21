@@ -2,5 +2,5 @@ git remote add host-wa-labs-videos git@github.com:gcanales75/host-wa-labs-videos
 git branch -M main
 
 git add .
-git commit -m "new skillbuilder videos - Diana"
+git commit -m "update title"
 git push -u host-wa-labs-videos main
