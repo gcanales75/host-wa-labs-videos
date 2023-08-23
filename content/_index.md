@@ -8,10 +8,10 @@ weight = 1
 
 **Laboratorio #1**
 
-1. **Acceso a <a href="https://www.aws.training/" target="_blank">AWS Training and Certification</a> e inicio del laboratorio**
+1. **Acceso al portal de AWS Labs y registro**
 
 
-	{{< video src="/img/1-login.mp4" type="video/mp4" preload="auto" >}}
+	{{< video src="/img/1-login-2.mp4" type="video/mp4" preload="auto" >}}
 
 	<br></br>
 
